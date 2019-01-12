@@ -1,0 +1,10 @@
+cxx_binary(
+  name = 'case-insensitive-test',
+  header_namespace = '',
+  srcs = glob([
+    '*.cpp',
+  ]),
+  deps = [
+    '//:unordered',
+  ]
+)
