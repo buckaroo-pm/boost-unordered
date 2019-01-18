@@ -104,6 +104,10 @@ revision = "5548bd44b949ccd04331c4fb25b0bb3c9b0db0d8"
 versions = [ "branch=master" ]
 revision = "1ac6205cc64073c8142265daad63a7d734ead36e"
 
+[lock."github.com/buckaroo-pm/boost-type_index"]
+versions = [ "branch=master" ]
+revision = "a8183e0bdcaafdda1183c0279137acadcb5b4466"
+
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
 revision = "4d0a507c0d1a1011c5a98d57acc9f6b755141e4f"
