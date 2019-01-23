@@ -11,3 +11,7 @@ version = "branch=master"
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-functional"
 version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-tuple"
+version = "branch=master"
