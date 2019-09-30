@@ -1,0 +1,17 @@
+targets = ["//:unordered"]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.62.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+version = "1.62.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-functional"
+version = "1.62.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-tuple"
+version = "1.62.0"
